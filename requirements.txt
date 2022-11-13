@@ -3,3 +3,4 @@ numpy
 Flask
 pandas
 scikit-learn
+gunicorn==19.9.0
